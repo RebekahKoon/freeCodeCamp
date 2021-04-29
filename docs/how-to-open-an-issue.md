@@ -21,17 +21,14 @@ In order to verify that a bug has been found, please do the following:
 1. While at the [FreeCodeCamp repository](https://github.com/freeCodeCamp/freeCodeCamp), click on the "Issues" link located directly below the name of the repository.
 
 ![Issue Location](./images/issue/issue.png)
-Format: ![Alt Text](url)
 
 2. Upon clicking the link, you will be taken to the page where you can view open issues as well as create new issues. Click on the "New issue" button.
 
 ![Create a new Issue](./images/issue/new-issue.png)
-Format: ![Alt Text](url)
 
 3. On this page, you will be shown different categories for issues to choose from. Select the category that best represents what bug you have found and click the "Get started" button. If none of the categories are applicable, you can also open a blank issue.
 
 ![Issue Types](./images/issue/issue-types.png)
-Format: ![Alot Text](url)
 
 4. You will be redirected to a form that you will use to report the bug.
    - First select the title for your issue. This title should be descriptive but also brief.
