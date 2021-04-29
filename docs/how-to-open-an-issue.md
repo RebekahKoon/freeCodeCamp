@@ -31,15 +31,19 @@ In order to verify that a bug has been found, please do the following:
 ![Issue Types](./images/issue/issue-types.png)
 
 4. You will be redirected to a form that you will use to report the bug.
+
    - First select the title for your issue. This title should be descriptive but also brief.
      - A descriptive title would be something such as "'Settings' link in the dropdown Menu not working"
      - A title that is not descriptive would be something such as "Problem found on FreeCodeCamp's website"
    - Next, add a description for the bug found. Within the description text box, prompts on what to write are made available to you. These prompts include:
+
      - Listing the affected page. Please include a link to the page.
      - If you were working on a challenge, please post the code that you used within three backticks such as this:
+
        \`\`\`
        Your code here
        \`\`\`
+
      - Add a description about the behavior you expected to happen.
      - You may add screenshots to show any relevant behavior of the bug. The image can be dragged directly into the description box.
      - Describe the system that you experienced this bug on. Relevant information includes:
@@ -48,5 +52,7 @@ In order to verify that a bug has been found, please do the following:
        - Browser
        - Device version
      - Add any other relevant information related to the problem experienced.
+
    - After all information is filled out, click the "Submit new issue" button.
+
 5. Once the issue has been submitted, other community members will post their thoughts about the issue or offer suggestions on how to fix it. Some may also offer to fix the issue. You will be notified of any new comments on your opened issue.
