@@ -31,7 +31,6 @@ In order to verify that a bug has been found, please do the following:
 ![Issue Types](./images/issue/issue-types.png)
 
 4. You will be redirected to a form that you will use to report the bug.
-
    - First select the title for your issue. This title should be descriptive but also brief.
      - A descriptive title would be something such as "'Settings' link in the dropdown Menu not working"
      - A title that is not descriptive would be something such as "Problem found on FreeCodeCamp's website"
@@ -54,5 +53,4 @@ In order to verify that a bug has been found, please do the following:
      - Add any other relevant information related to the problem experienced.
 
    - After all information is filled out, click the "Submit new issue" button.
-
 5. Once the issue has been submitted, other community members will post their thoughts about the issue or offer suggestions on how to fix it. Some may also offer to fix the issue. You will be notified of any new comments on your opened issue.
