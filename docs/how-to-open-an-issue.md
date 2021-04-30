@@ -15,8 +15,8 @@ In order to verify that a bug has been found, please do the following:
    - For Mac users: Command + Shift + R
    - For Linux users: F5
 3. You can ask other community members about the problem you experienced in one of FreeCodeCamp's Chat Rooms. More information can be found [here](https://forum.freecodecamp.org/t/how-to-get-help-on-gitter/19130). Other community members may be able to determine if this is a bug you are experiencing as well as what is causing the problem if it is discovered to be a bug.
-4. Search FreeCodeCamp's forums to see if the bug has been encountered by someone else. If you cannot find any discussions about the problem encountered, you may also post a question on one of the forums. Other community members FreeCodeCamp's forums can be found [here](https://forum.freecodecamp.org/).
-5. If a solution to the bug is not found by following the previous steps, browse the issues within FreeCodeCamp's repository to determine if an issue has already been opened surrounding this bug. You can find the currently opened issues [here](https://github.com/freeCodeCamp/freeCodeCamp/issues). You may ask to work on the bug if an issue has already been opened.
+4. Search FreeCodeCamp's forums to see if the bug has been encountered by someone else. If you cannot find any discussions about the problem encountered, you may also post a question on one of the forums. Other community members will then respond to your question. FreeCodeCamp's forums can be found [here](https://forum.freecodecamp.org/).
+5. If a solution to the bug is not found by following the previous steps, browse the issues within FreeCodeCamp's repository to determine if an issue has already been opened related to this bug. You can find the currently opened issues [here](https://github.com/freeCodeCamp/freeCodeCamp/issues). You may ask to work on the bug if an issue has already been opened.
 6. If an issue has not yet been created, then follow the steps below to to create a new issue.
 
 ## Creating a New Issue
@@ -35,7 +35,7 @@ In order to verify that a bug has been found, please do the following:
 
 4. You will be redirected to a form that you will use to report the bug.
 
-   - First select the title for your issue. This title should be descriptive but also brief.
+   - First select the title for your issue. This title should be descriptive about what bug you are experiencing but also brief.
      - A descriptive title would be something such as "'Settings' link in the dropdown Menu not working"
      - A title that is not descriptive would be something such as "Problem found on FreeCodeCamp's website"
    - Next, add a description for the bug found. Within the description text box, prompts on what to write are made available to you. These prompts include:
@@ -44,10 +44,14 @@ In order to verify that a bug has been found, please do the following:
      - If you were working on a challenge, please post the code that you used within three backticks such as this:
 
        \`\`\`
-       `Your code here`
+
+       ```
+       Your code here
+       ```
+
        \`\`\`
 
-     - Add a description about the behavior you expected to happen.
+     - Add a description about what you experienced as well as the behavior you expected to happen.
      - You may add screenshots to show any relevant behavior of the bug. The image can be dragged directly into the description box.
      - Describe the system that you experienced this bug on. Relevant information includes:
        - Device name
