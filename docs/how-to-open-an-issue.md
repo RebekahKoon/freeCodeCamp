@@ -1,13 +1,16 @@
 # How to Open an Issue
 
-Issues are created when a bug is found. This guide will help you in creating a new issue within FreeCodeCamp's repository on GitHub.
+Issues are created when a bug is found. If you think you have discovered a bug, please report your findings to FreeCodeCamp. This guide will help you to determine if a bug has been found and, if the problem experienced is a bug, create a new issue within FreeCodeCamp's repository on GitHub.
 
 ## Before Creating an Issue
 
 In order to verify that a bug has been found, please do the following:
 
-1. If you are working on a coding challenge, try clicking the "Reset All Code" button. It's possible that you made changes to the code for the challenge. This will reset any changes made to the challenge code present on the page.
-2. Try performing a hard refresh of the page. The command for hard refreshing the page is as follows:
+1. If you are working on a coding challenge and cannot get all of the tests to pass, try clicking the "Reset All Code" button. It's possible that the tests aren't passing because you made changes to the prewritten code within the text box. Pressing the button will reset any changes made to the challenge code present on the page. Try reentering your code in the text box again to see if the bug is resolved.
+
+![Resetting all code for a lesson](./images/reset-all-code.png)
+
+2. Try performing a hard refresh of the page. Doing so will clear your cache for the page as well as get the page's most recent version. The command for hard refreshing the page is as follows:
    - For Windows users: CTRL + F5
    - For Mac users: Command + Shift + R
    - For Linux users: F5
